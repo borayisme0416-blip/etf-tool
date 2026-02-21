@@ -19,6 +19,9 @@ export default function Home() {
             <Link href="/calculator" className="text-gray-600 hover:text-emerald-600 transition-colors">
               計算機
             </Link>
+            <Link href="/notes" className="text-gray-600 hover:text-emerald-600 transition-colors">
+              ML 筆記
+            </Link>
             <Link href="/learn" className="text-gray-600 hover:text-emerald-600 transition-colors">
               教學
             </Link>
