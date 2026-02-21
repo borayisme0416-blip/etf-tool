@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.zeabur.com/zeabur.json",
+  "build": {
+    "command": "npm run build",
+    "install": "npm install"
+  },
+  "outputDirectory": "out",
+  "port": 8080
+}
